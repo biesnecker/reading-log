@@ -6,8 +6,8 @@ Maybe a bit, too, for motivation.
 
 ## Current and Future
 
-* [Queue](https://github.com/biesnecker/reading-log/blob/main/queue.md)
 * [In Progress](https://github.com/biesnecker/reading-log/blob/main/in-progress.md)
+* [Queue](https://github.com/biesnecker/reading-log/blob/main/queue.md)
 
 ## Past
 
