@@ -1,6 +1,5 @@
 # Queue
 
-* [Colorless Tsukuru Tazaki and His Years of Pilgrimage](https://www.goodreads.com/book/show/41022133-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage) by Haruki Murakami
 * [The Friend](https://www.goodreads.com/book/show/40164365-the-friend) by Sigrid Nunez
 * [Interior Chinatown](https://www.goodreads.com/book/show/44436221-interior-chinatown) by Charles Yu
 * [The Vegetarian](https://www.goodreads.com/book/show/25489025-the-vegetarian) by Han Kang
