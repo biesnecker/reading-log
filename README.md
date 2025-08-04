@@ -11,4 +11,5 @@ Maybe a bit, too, for motivation.
 
 ## Past
 
+* [August 2025](https://github.com/biesnecker/reading-log/blob/main/2025-08.md)
 * [July 2025](https://github.com/biesnecker/reading-log/blob/main/2025-07.md)
